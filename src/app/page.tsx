@@ -6,7 +6,7 @@ const Page: React.FC = () => {
       <header className="mb-8 text-center">
         <h1 className="text-4xl font-bold text-gray-900">Kemesha Thompson</h1>
         <p className="text-sm text-gray-500 mt-1">
-          kemesha@example.com | (123) 456-7890 | Tampa, FL
+          kemeshathompson58@gmail.com | (609) 665-2820 | Tampa, FL
         </p>
       </header>
 
@@ -20,14 +20,20 @@ const Page: React.FC = () => {
       <section className="mb-8 border-t border-gray-200 pt-6">
         <h2 className="text-xl font-semibold mb-2 uppercase tracking-wide">Education</h2>
         <p className="text-gray-700">
-          University of South Florida — B.S. in Global Business, Concentration: Business Analytics & Information Systems (Expected 2026)
+          University of South Florida — B.A. in Global Business, Concentration: Business Analytics & Information Systems (Expected 2026)
         </p>
       </section>
 
       <section className="mb-8 border-t border-gray-200 pt-6">
         <h2 className="text-xl font-semibold mb-2 uppercase tracking-wide">Work Experience</h2>
         <p className="text-gray-700">
-          Database Engineer / Analyst — Prepared and managed databases, optimized data pipelines, and supported business intelligence reports.
+          Home Health Aide — Homewell Care Services (2025 - Present)
+          <br />
+          - Provide compassionate care to patients, assisting with daily activities and ensuring their comfort and safety.
+          <br />
+          - Communicate effectively with healthcare professionals and family members to coordinate care plans.
+          <br />
+          - Maintain accurate records of patient care and report any changes in condition to the healthcare team.
         </p>
       </section>
 
