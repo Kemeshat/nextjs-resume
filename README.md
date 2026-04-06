@@ -4,19 +4,19 @@ A single-page resume application built using Next.js (App Router) and Tailwind C
 🚀 How to Run Locally
 Follow these steps to get the project up and running on your local machine:
 
-Clone the repository:
-git clone <your-repository-link>
+1. Clone the repository:
+git clone https://github.com/Kemeshat/nextjs-resume-fresh.git
 cd nextjs-resume
 
-Install dependencies:
+2. Install dependencies:
 
 Bash
 npm install
 
-Run the development server:
+3. Run the development server:
 
 Bash
 npm run dev
 
-View the project:
+4. View the project:
 Open http://localhost:3000 in your browser to see the result.
